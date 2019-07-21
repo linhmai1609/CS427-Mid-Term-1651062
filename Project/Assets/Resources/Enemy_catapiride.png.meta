@@ -1,0 +1,699 @@
+fileFormatVersion: 2
+guid: 901f177b036b4e442928df74631324e3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8356532743157047069
+    second: Enemy_catapiride_0
+  - first:
+      213: 7339256594613988819
+    second: Enemy_catapiride_1
+  - first:
+      213: 7001868563251880674
+    second: Enemy_catapiride_2
+  - first:
+      213: 2170448237344308343
+    second: Enemy_catapiride_3
+  - first:
+      213: 3716395770099523949
+    second: Enemy_catapiride_4
+  - first:
+      213: 3132914226816487278
+    second: Enemy_catapiride_5
+  - first:
+      213: 7304791250765970116
+    second: Enemy_catapiride_6
+  - first:
+      213: 7145424028807650919
+    second: Enemy_catapiride_7
+  - first:
+      213: 3676123976565864081
+    second: Enemy_catapiride_8
+  - first:
+      213: -9149711389955412089
+    second: Enemy_catapiride_9
+  - first:
+      213: 695469049597716733
+    second: Enemy_catapiride_10
+  - first:
+      213: 6384868766090665974
+    second: Enemy_catapiride_11
+  - first:
+      213: 994106707246330227
+    second: Enemy_catapiride_12
+  - first:
+      213: -396373170388111509
+    second: Enemy_catapiride_13
+  - first:
+      213: -5373744088111683563
+    second: Enemy_catapiride_14
+  - first:
+      213: -5160577821325014776
+    second: Enemy_catapiride_15
+  - first:
+      213: -5748256707392131424
+    second: Enemy_catapiride_16
+  - first:
+      213: -966697252397210847
+    second: Enemy_catapiride_17
+  - first:
+      213: 3560896151735739825
+    second: Enemy_catapiride_18
+  - first:
+      213: -6957911515735070965
+    second: Enemy_catapiride_19
+  - first:
+      213: 8323250091636788736
+    second: Enemy_catapiride_20
+  - first:
+      213: -5175637067527148145
+    second: Enemy_catapiride_21
+  - first:
+      213: 8256791470574417674
+    second: Enemy_catapiride_22
+  - first:
+      213: 8521500304954982867
+    second: Enemy_catapiride_23
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemy_catapiride_0
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 140
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a081048e81e6045b9b4b4ec58b295a
+      internalID: -8356532743157047069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_catapiride_1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 140
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed93ab6eba9b3194a9d4d4b950941547
+      internalID: 7339256594613988819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_catapiride_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 140
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2532484b2029c4eb04f742e2fec634
+      internalID: 7001868563251880674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_catapiride_3
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 140
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb160500c208a84a99d9e2b17df522d
+      internalID: 2170448237344308343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_catapiride_4
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 140
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eddc961e6da5e0418ba2660c4d34bed
+      internalID: 3716395770099523949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_catapiride_5
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 80
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25571951d94831f4ca916cb4e3d47827
+      internalID: 3132914226816487278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_catapiride_6
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 80
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d62faead6c2814f8e1a197d043425a
+      internalID: 7304791250765970116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_catapiride_7
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 80
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134a1e7d2b4545f46b2a05ebbcba5fc9
+      internalID: 7145424028807650919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_catapiride_8
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 80
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9557205f96708a145aa06b0a5cdc0fb2
+      internalID: 3676123976565864081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_catapiride_9
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 79
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ff60e1b3015e94c8085974015a0594
+      internalID: -9149711389955412089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_catapiride_10
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 79
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922532065cded2143af65ad9d6e8e3eb
+      internalID: 695469049597716733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_catapiride_11
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 76
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc32a28a503941649bc623fa4a6078a5
+      internalID: 6384868766090665974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_catapiride_12
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 73
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e34555df8299b44fac6ab0870bcca2b
+      internalID: 994106707246330227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_catapiride_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 71
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af6bcfed37ef4448adc93de913acfbb
+      internalID: -396373170388111509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_catapiride_14
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 70
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cafdabbbf390d941ae83d4f66071641
+      internalID: -5373744088111683563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_catapiride_15
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 70
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9200254506a4b8546ab0ad12cd306799
+      internalID: -5160577821325014776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_catapiride_16
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 10
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e09b66771fd9841860b24ed5fd9acb
+      internalID: -5748256707392131424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_catapiride_17
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 10
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194936e1d221c1c4ea34607ab89539bb
+      internalID: -966697252397210847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_catapiride_18
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 10
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40aa189d9d5a8ff49bfe795abe0ad84a
+      internalID: 3560896151735739825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_catapiride_19
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 10
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219fb3520e659174c96d77f330ad4ee3
+      internalID: -6957911515735070965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_catapiride_20
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 10
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0dd84eda19eed42b161b626ef030c5
+      internalID: 8323250091636788736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_catapiride_21
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 10
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3317e3f75963e9249b0a6f75d67ef022
+      internalID: -5175637067527148145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_catapiride_22
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 10
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06a69b2b24912e41a42dbf8c50b02fb
+      internalID: 8256791470574417674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_catapiride_23
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 10
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e2c98482e6f7748b45035a9bb6e242
+      internalID: 8521500304954982867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 25bfee64b7ba7fe458cbed9aabd52045
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

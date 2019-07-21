@@ -1,0 +1,987 @@
+fileFormatVersion: 2
+guid: aa201a8b34785024c8d1c6cfb2e1bf8c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1936346876067374238
+    second: Enemy_killermoth_0
+  - first:
+      213: 794981044540035165
+    second: Enemy_killermoth_1
+  - first:
+      213: 7244201940009529289
+    second: Enemy_killermoth_2
+  - first:
+      213: 5610978317471585469
+    second: Enemy_killermoth_3
+  - first:
+      213: -4885979707238852721
+    second: Enemy_killermoth_4
+  - first:
+      213: -9077421620012828391
+    second: Enemy_killermoth_5
+  - first:
+      213: 8646027486773806
+    second: Enemy_killermoth_6
+  - first:
+      213: -4596761630630801787
+    second: Enemy_killermoth_7
+  - first:
+      213: 6306725901713398961
+    second: Enemy_killermoth_8
+  - first:
+      213: -2510599225508094085
+    second: Enemy_killermoth_9
+  - first:
+      213: -8825946590470922942
+    second: Enemy_killermoth_10
+  - first:
+      213: 552773131824718654
+    second: Enemy_killermoth_11
+  - first:
+      213: 654217835814300891
+    second: Enemy_killermoth_12
+  - first:
+      213: -8410006856349984453
+    second: Enemy_killermoth_13
+  - first:
+      213: -3657946606931749015
+    second: Enemy_killermoth_14
+  - first:
+      213: 7689326532793840305
+    second: Enemy_killermoth_15
+  - first:
+      213: 4534259946309028298
+    second: Enemy_killermoth_16
+  - first:
+      213: 3192329009189818412
+    second: Enemy_killermoth_17
+  - first:
+      213: -6225444622116335595
+    second: Enemy_killermoth_18
+  - first:
+      213: -4928059129950789418
+    second: Enemy_killermoth_19
+  - first:
+      213: -7243030129202291093
+    second: Enemy_killermoth_20
+  - first:
+      213: 8035004860726050948
+    second: Enemy_killermoth_21
+  - first:
+      213: 1730879361333812867
+    second: Enemy_killermoth_22
+  - first:
+      213: -1294950675587168320
+    second: Enemy_killermoth_23
+  - first:
+      213: -8040622254585123937
+    second: Enemy_killermoth_24
+  - first:
+      213: 8704891760549886545
+    second: Enemy_killermoth_25
+  - first:
+      213: 2735973633773436776
+    second: Enemy_killermoth_26
+  - first:
+      213: 1738242300722546277
+    second: Enemy_killermoth_27
+  - first:
+      213: -4968555743916199994
+    second: Enemy_killermoth_28
+  - first:
+      213: 956129641841197479
+    second: Enemy_killermoth_29
+  - first:
+      213: -7558676287739516868
+    second: Enemy_killermoth_30
+  - first:
+      213: -8064600718803182136
+    second: Enemy_killermoth_31
+  - first:
+      213: 2219209929329199391
+    second: Enemy_killermoth_32
+  - first:
+      213: 8066934998662850212
+    second: Enemy_killermoth_33
+  - first:
+      213: 3502642258787415861
+    second: Enemy_killermoth_34
+  - first:
+      213: -2513302586411716560
+    second: Enemy_killermoth_35
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemy_killermoth_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 55
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438a032fc7801cb419e4c5513be29ff1
+      internalID: 1936346876067374238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_killermoth_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 55
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c490e600676f6479aa4dd4adfec7d0
+      internalID: 794981044540035165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_killermoth_2
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 55
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bca75dfe5a1ac459306dfdfd58f2d5
+      internalID: 7244201940009529289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_killermoth_3
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 55
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16a37cd8cbc653439b096b8833957a9
+      internalID: 5610978317471585469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_killermoth_4
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 55
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752500bb9a3b1ec45a2942a87789f6d4
+      internalID: -4885979707238852721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_killermoth_5
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 55
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b13f2fd3f60a348ba89929a5aacc83
+      internalID: -9077421620012828391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_killermoth_6
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 55
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa95b7b4a6fd4424b981610426f5a949
+      internalID: 8646027486773806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_killermoth_7
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 55
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48fb151d8f09c14387e165d0e6020fd
+      internalID: -4596761630630801787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_killermoth_8
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 55
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9778e96bb94ffec48b0382625df8bb54
+      internalID: 6306725901713398961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_killermoth_9
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 25
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7609ebbf69de82e4281dbc8475671425
+      internalID: -2510599225508094085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_killermoth_10
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 55
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d099a72d3abfd1240baf20475d2e4af2
+      internalID: -8825946590470922942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_killermoth_11
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 56
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f47eae358586234ba4ccc51fa7acb7f
+      internalID: 552773131824718654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_killermoth_12
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 60
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d6a01e5843e2b45ac7b37da9ea62a3
+      internalID: 654217835814300891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_killermoth_13
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 33
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec63e1acf4289ad448a289a69b9bb5d6
+      internalID: -8410006856349984453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_killermoth_14
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 38
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5bd9d9547053e4a9ec18e5bd328b56
+      internalID: -3657946606931749015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_killermoth_15
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 32
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea58635da0efc14183045f1e4e76a4c
+      internalID: 7689326532793840305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_killermoth_16
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 36
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0d95e955538f149b67a38423da0047
+      internalID: 4534259946309028298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_killermoth_17
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 34
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc06980a9adc594a9a15dce4d96b60a
+      internalID: 3192329009189818412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_killermoth_18
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 38
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a81ca0132e1a8499016fda45161cc0
+      internalID: -6225444622116335595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_killermoth_19
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 28
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b60a7046b8b6a40843660276999961
+      internalID: -4928059129950789418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_killermoth_20
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 12
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34648309e0fac2e4b971cda7c3410aaf
+      internalID: -7243030129202291093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_killermoth_21
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 25
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73889c8cc529f94ebdcadc5adc11d9d
+      internalID: 8035004860726050948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_killermoth_22
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 26
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65b3e4d68ce4564db5d53bb4198768e
+      internalID: 1730879361333812867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_killermoth_23
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 31
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5290e3b61f5c249aba6210bbc46e64
+      internalID: -1294950675587168320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_killermoth_24
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 26
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1cff6418199874194c7f69183254eb
+      internalID: -8040622254585123937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_killermoth_25
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 28
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746a37d95fdef8549846dae220a2df0f
+      internalID: 8704891760549886545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_killermoth_26
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 9
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e5b3eff9f093043a9638ca8fa51ab3
+      internalID: 2735973633773436776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_killermoth_27
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 7
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac15685833e0cf49b428b05cd33191e
+      internalID: 1738242300722546277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_killermoth_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 5
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b24aa83ac04c340b306582334db742
+      internalID: -4968555743916199994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_killermoth_29
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 10
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662d60a50d4ba924d9f4f299be9a40a9
+      internalID: 956129641841197479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_killermoth_30
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 8
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7dbc1c8572c2141b748a9c6526c5d6
+      internalID: -7558676287739516868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_killermoth_31
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 5
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f787fd56410cad4b91bbfa2b3484287
+      internalID: -8064600718803182136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_killermoth_32
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 10
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c84aed550b81234a86cd1686bdb244f
+      internalID: 2219209929329199391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_killermoth_33
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 6
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a5ab43be14a8c41bb73a5c77c3f323
+      internalID: 8066934998662850212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_killermoth_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 6
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adebb5afedc2d2a468463889ba5bc99b
+      internalID: 3502642258787415861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_killermoth_35
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 7
+        width: 31
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ebc0cc51f8bf747b87de359a33d1da
+      internalID: -2513302586411716560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0c04850d198a1ce4dbe12a745ad2fc85
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

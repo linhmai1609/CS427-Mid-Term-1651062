@@ -1,0 +1,987 @@
+fileFormatVersion: 2
+guid: 32be20fc606e9af4f8e9d5a6225ddae7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8581111824914704895
+    second: Enemy_jet_0
+  - first:
+      213: 1310062158065792577
+    second: Enemy_jet_1
+  - first:
+      213: 6062966003275597725
+    second: Enemy_jet_2
+  - first:
+      213: 1653232643881448311
+    second: Enemy_jet_3
+  - first:
+      213: 9032608220845341764
+    second: Enemy_jet_4
+  - first:
+      213: -6743720050132065685
+    second: Enemy_jet_5
+  - first:
+      213: 4158318710237785158
+    second: Enemy_jet_6
+  - first:
+      213: 6463263834084272152
+    second: Enemy_jet_7
+  - first:
+      213: 4497242564733018716
+    second: Enemy_jet_8
+  - first:
+      213: -4830675707021400436
+    second: Enemy_jet_9
+  - first:
+      213: -887027139371483504
+    second: Enemy_jet_10
+  - first:
+      213: 4086341478201608457
+    second: Enemy_jet_11
+  - first:
+      213: -8164661970504777760
+    second: Enemy_jet_12
+  - first:
+      213: 2461143711176787850
+    second: Enemy_jet_13
+  - first:
+      213: 6204480544912097069
+    second: Enemy_jet_14
+  - first:
+      213: -589288641672654843
+    second: Enemy_jet_15
+  - first:
+      213: -6498596124880787690
+    second: Enemy_jet_16
+  - first:
+      213: 7904444616088501371
+    second: Enemy_jet_17
+  - first:
+      213: 7951403534170365798
+    second: Enemy_jet_18
+  - first:
+      213: -1733577296488221805
+    second: Enemy_jet_19
+  - first:
+      213: -8646127081643067413
+    second: Enemy_jet_20
+  - first:
+      213: -7256013987873711520
+    second: Enemy_jet_21
+  - first:
+      213: -6808793862826964585
+    second: Enemy_jet_22
+  - first:
+      213: 2513499608836812895
+    second: Enemy_jet_23
+  - first:
+      213: -2250739017082743223
+    second: Enemy_jet_24
+  - first:
+      213: -6362434897662430212
+    second: Enemy_jet_25
+  - first:
+      213: 69679447834214777
+    second: Enemy_jet_26
+  - first:
+      213: 8100346820684947303
+    second: Enemy_jet_27
+  - first:
+      213: -259723377991351368
+    second: Enemy_jet_28
+  - first:
+      213: -726350193460575560
+    second: Enemy_jet_29
+  - first:
+      213: -9134772723241548353
+    second: Enemy_jet_30
+  - first:
+      213: 5991835100478698579
+    second: Enemy_jet_31
+  - first:
+      213: -7460592377043943056
+    second: Enemy_jet_32
+  - first:
+      213: 1750400295284502951
+    second: Enemy_jet_33
+  - first:
+      213: -6783387895491969190
+    second: Enemy_jet_34
+  - first:
+      213: -7249488344685007094
+    second: Enemy_jet_35
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemy_jet_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 75
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0689b7c485cfa43abed29efc134b95
+      internalID: -8581111824914704895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_jet_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 75
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ece7979b7d2b234a8b6259fddfb4c3c
+      internalID: 1310062158065792577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_jet_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 67
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77ba3ee5dec59e4b8a9889df9a44fa2
+      internalID: 6062966003275597725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_jet_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 72
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a0f91ddf74bc844ab9a4f84ce42509
+      internalID: 1653232643881448311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_jet_4
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 67
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2db90efd6e7b948bc370bf77accce1
+      internalID: 9032608220845341764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_jet_5
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 87
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80463fb87fabe54893d357a62686dbe
+      internalID: -6743720050132065685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_jet_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 84
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b796822704001fe49a73690940666a26
+      internalID: 4158318710237785158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_jet_7
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 84
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398db75e8a809ea48a81d5a4ab03a308
+      internalID: 6463263834084272152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_jet_8
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 84
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e49500a6580604981cbd77ee3ca040
+      internalID: 4497242564733018716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_jet_9
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 76
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb4958a9b1aa3d48ae5c5e2b1ca0e79
+      internalID: -4830675707021400436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_jet_10
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 76
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b694b0a7163494c8bdf5ac3653f369
+      internalID: -887027139371483504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_jet_11
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 78
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e35e3616e300f4d80c6e4d9a5a86de
+      internalID: 4086341478201608457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_jet_12
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 71
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6ee24775195fd4688d711794909343
+      internalID: -8164661970504777760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_jet_13
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 70
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b0a73e9c9048a4fbf742645fb81737
+      internalID: 2461143711176787850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_jet_14
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 69
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33b2953238c01f4aa9325187557ce37
+      internalID: 6204480544912097069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_jet_15
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 69
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88eb18502af04624baeb786d9509a8de
+      internalID: -589288641672654843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_jet_16
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 69
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc8cc57f92f0ca48a82875054ac68cf
+      internalID: -6498596124880787690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_jet_17
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 54
+        width: 125
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885897e18c1f043438f2a7e8eac51ecc
+      internalID: 7904444616088501371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_jet_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 25
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72058fd8f279fcc4884cc1bc4fe3a45b
+      internalID: 7951403534170365798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_jet_19
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 25
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897dd5776276cf141bbdce0f0794101b
+      internalID: -1733577296488221805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_jet_20
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 17
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b3e5925c6a6d348b25642e71f08e21
+      internalID: -8646127081643067413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_jet_21
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 22
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b03adc30d600d43a3f839c7f08b894
+      internalID: -7256013987873711520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_jet_22
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 17
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b3a56140908a24b848725d706f88e1
+      internalID: -6808793862826964585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_jet_23
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 37
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5529f14ad91d61c45a05c8cec3a39e27
+      internalID: 2513499608836812895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_jet_24
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 34
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1eb1fca267939f4eba4b3698a030cd2
+      internalID: -2250739017082743223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_jet_25
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 34
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d44ab26b168384283ab9b3db4e58dc
+      internalID: -6362434897662430212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_jet_26
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 34
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bf1989791808e4eaf426519db055f7
+      internalID: 69679447834214777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_jet_27
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 26
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d8a964a3669434caa3776780f42ab3
+      internalID: 8100346820684947303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_jet_28
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 26
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34b5ecad5c61aa45ab3458e168e4ed6
+      internalID: -259723377991351368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_jet_29
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 28
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494fece48fa639340b49753c01ff7c96
+      internalID: -726350193460575560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_jet_30
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 21
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d27ccd58e0b4b542ab4b2a51882e484
+      internalID: -9134772723241548353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_jet_31
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 20
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c02ae531537c9499efcff25659bec6
+      internalID: 5991835100478698579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_jet_32
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 19
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d108d39e55212d640af3ca9ea6bf4703
+      internalID: -7460592377043943056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_jet_33
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 19
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31126be8f24e2dd40bbbd205da69a83b
+      internalID: 1750400295284502951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_jet_34
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 19
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005f8dec50c080f419840bbe22966d1e
+      internalID: -6783387895491969190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_jet_35
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 4
+        width: 125
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b4798e6aa0aca44a9a38a46cd9491b
+      internalID: -7249488344685007094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f67f054050a255641a8559c28f6b0354
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
