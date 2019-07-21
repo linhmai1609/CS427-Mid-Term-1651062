@@ -1,7 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.SceneManagement;
 
 public class player : MonoBehaviour
 {
@@ -41,11 +40,7 @@ public class player : MonoBehaviour
 
     // Update is called once per frame
     protected void Update()
-    {
-        if(Input.GetKeyDown(KeyCode.Backspace))
-        {            
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
-        }
+    {       
         animator.SetBool("isGrounded", controller.m_Grounded);
         horizontalMove = Input.GetAxisRaw("Horizontal") * speed;
 
@@ -72,6 +67,7 @@ public class player : MonoBehaviour
         {
 
         }
+        
     }
 
     protected void FixedUpdate()
@@ -89,7 +85,7 @@ public class player : MonoBehaviour
             if (Input.GetButtonDown("Jump"))
             {
                 animator.SetBool("isWallJumping", true);
-                rb.AddForce(new Vector2(0f, 300f));
+                rb.AddForce(new Vector2(0f, 400f));
             }
             else
             {

@@ -25,8 +25,8 @@ public class swordBehavior : MonoBehaviour
         enemyLayer = LayerMask.LayerToName(collision.gameObject.layer);
         if (enemyLayer == "Enemy")
         {
-            Debug.Log("hit");
             enemyBehavior enemy = collision.GetComponent<enemyBehavior>();
+            obstacleHandler obstacle = collision.GetComponent<obstacleHandler>();
             if (enemy != null)
             {
                 if (!zero.GetComponent<Animator>().GetBool("isGrounded"))
@@ -43,6 +43,28 @@ public class swordBehavior : MonoBehaviour
                             break;
                         case 3:
                             enemy.takeDamage(dmg3);
+                            break;
+
+                    }
+                }
+            }
+
+            if(obstacle != null)
+            {
+                if (!zero.GetComponent<Animator>().GetBool("isGrounded"))
+                    enemy.takeDamage(dmg1);
+                else
+                {
+                    switch (zero.GetComponent<Animator>().GetInteger("noOfClicks"))
+                    {
+                        case 1:
+                            obstacle.takeDamage(dmg1);
+                            break;
+                        case 2:
+                            obstacle.takeDamage(dmg2);
+                            break;
+                        case 3:
+                            obstacle.takeDamage(dmg3);
                             break;
 
                     }

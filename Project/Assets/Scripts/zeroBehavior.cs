@@ -34,8 +34,7 @@ public class zeroBehavior : player
             
             if (Input.GetKeyDown(KeyCode.C))
             {
-                //OnClick();  
-                animator.SetBool("isSlashing", true);                
+                //OnClick();               
                 if (controller.m_Grounded)
                 {
                     animator.SetFloat("Speed", 0);

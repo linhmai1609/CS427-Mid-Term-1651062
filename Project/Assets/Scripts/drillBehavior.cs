@@ -24,7 +24,7 @@ public class drillBehavior : instantKillBehavior
     }
 
     // Update is called once per frame
-    void Update()
+    void FixedUpdate()
     {
         if (active)
         {
