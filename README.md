@@ -5,7 +5,7 @@ Author name: Mai Le Bao Linh
 StudentID: 1651062
 
 #### Introduction 
-This game is made as an attempt to remake the game Megaman X6. In this game you will be the hero Zero who will travel through many places and beats evil reactionary robots. 
+This game is made as an attempt to remake the game Megaman X6. In this game you will be the hero Zero who will travel through many places and beat evil reactionary robots. 
 
 #### Details of the projects
 - Unity version: 2019.1.4f1 
